@@ -1,5 +1,7 @@
 
--👋 Hi, I'm Ritam Sadhu
+<!---👋 Hi, I'm Ritam Sadhu
+- 🌱 I'm very Passionate about Competitive Programming-->
+- 👋 Hi, I'm Ritam Sadhu
 - 🌱 I'm very Passionate about Competitive Programming
 - 👀 I’m interested in Machine Learning
 - 🏳️‍🌈 I'm also interested in Front-End Web Development.
